@@ -6,6 +6,6 @@
   
 # <div align="center"> Problem Solving...👨‍🏫 </div>
 
-<div align="center"> [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sungwon326)](https://solved.ac/sungwon326) </div>
+<div align="center"> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sungwon326)](https://solved.ac/sungwon326) </div>
 
 
