@@ -12,5 +12,5 @@
 <br>
 
 # <div align="center"> 💬Blog </div>
-[Go!]([https://parvegoongame.tistory.com/)https://parvegoongame.tistory.com/]).
+[Go!](https://parvegoongame.tistory.com/)https://parvegoongame.tistory.com/).
 
