@@ -8,8 +8,8 @@
 # <div align="center"> ✅ SOLVED.AC </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sungwon326)](https://solved.ac/sungwon326)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=sungwon326&theme=dark)
+
 <br>
 
 # <div align="center"> 💬 CONTACT ME </div>
