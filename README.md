@@ -13,5 +13,5 @@
 <br>
 
 # <div align="center"> 💬 CONTACT ME </div>
-<a href="meteorfish.blog"><img src="https://img.shields.io/badge/TISTORY-FF7F00?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://meteorfish.blog"><img src="https://img.shields.io/badge/TISTORY-FF7F00?style=flat-square&logo=tistory&logoColor=white"/></a>
 
