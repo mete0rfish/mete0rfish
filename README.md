@@ -8,9 +8,10 @@
 # <div align="center"> ✅ SOLVED.AC </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sungwon326)](https://solved.ac/sungwon326)
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
 <br>
 
-# <div align="center"> 💬Blog </div>
+# <div align="center"> 💬 CONTACT ME </div>
 [Go!](https://parvegoongame.tistory.com/)https://parvegoongame.tistory.com/).
 
