@@ -2,23 +2,21 @@
 
 ***"Talk is cheap. Show me the code.”** – Linus Torvalds*
 
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mete0rfish&theme=tokyonight)](https://git.io/streak-stats)
 
-<br/>
 
 ## 🔥Activities
 
 - 멋쟁이 사자처럼 세종대 12기 BE트랙
   - Onetool 개발 (2024.03 ~ )
-- 한이음 프로젝트 (2024.02 ~ )
+- 한이음 프로젝트
+  - DevRoute 개발 (2024.02 ~ )
 - 4차산업 IT연합 동아리 Tave 
 	- 10기 (2022.09 ~ 2022.06)
 	- 12기 : 다정다감 개발 (2023.09 ~ 2023.01)
 - 세종대학교 컴퓨터공학과 (2020.03 ~ )
 
-<br/>
 
 ## 🛠Skills
 
@@ -35,10 +33,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-
-<br/>
-  
-[website]: http://meteorfish.blog/
 
 <br/>
 
