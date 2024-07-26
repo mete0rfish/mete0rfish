@@ -3,7 +3,7 @@
 ***"Talk is cheap. Show me the code.”** – Linus Torvalds*
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mete0rfish&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mete0rfish&theme=outrun&border_radius=10&locale=ko)](https://git.io/streak-stats)
 
 
 ## 🔥Activities
