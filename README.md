@@ -1,2 +1,1 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sungwon326)](https://solved.ac/sungwon326)
-
+[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=sungwon326_id_here&compact=1)](https://github.com/2ykwang/solvedac-readme-badge)
