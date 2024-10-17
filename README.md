@@ -6,7 +6,7 @@
 
 
   
-  **[Resume](https://acoustic-rest-b1b.notion.site/Yun-Sung-Won-14958e287b534a47890f24bcdb67aa99?pvs=4)**
+  **[Resume]()**
   
   **E-mail:**  sungwon326@naver.com
   
