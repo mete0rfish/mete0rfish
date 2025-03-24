@@ -21,6 +21,8 @@
 - [4차산업 IT연합 동아리 Tave 10기 & 12기 활동](https://www.tave-wave.com/)
 - 세종대학교 컴퓨터공학과 (2020.03 ~ )
 
+<br/>
+
 ## Contact
 [개발 관련 블로그](https://parvegoongame.tistory.com/)
 [취미 블로그](https://blog.naver.com/sungwon326)
