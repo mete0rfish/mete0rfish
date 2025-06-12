@@ -6,6 +6,7 @@
 
 🤔 Frameworker가 아닌 SW Engineer가 되기 위해 원리를 파고들어 학습하는 것을 추구합니다.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mete0rfish&theme=vue&show_icons=true)
 <br/>
 
 ## 🔥Activities
