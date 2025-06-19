@@ -15,9 +15,9 @@
 
 ### 🔥 Contributed Projects
 
-[![Portfolio](https://img.shields.io/badge/🏗️원툴-백엔드-blue)](https://github.com/likelion-onetool)
-[![Portfolio](https://img.shields.io/badge/✏️끄적-백엔드-purple?style=flat)](https://github.com/dog-feet-bird-feet/server)
-[![Portfolio](https://img.shields.io/badge/📚데브루트-백엔드-green?style=flat)](https://github.com/ICT-Dev-Route)
+[![Portfolio](https://img.shields.io/badge/🏗️Onetool-Backend-blue)](https://github.com/likelion-onetool)
+[![Portfolio](https://img.shields.io/badge/✏️GGZZ-Backend-purple?style=flat)](https://github.com/dog-feet-bird-feet/server)
+[![Portfolio](https://img.shields.io/badge/📚Devroute-Backend-green?style=flat)](https://github.com/ICT-Dev-Route)
 
 ### 🛠️ Languages and Tools:
 
