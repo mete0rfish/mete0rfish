@@ -1,30 +1,39 @@
-## 생각하고 행동하고 같이하는 개발자 윤성원 입니다
+## Hello! I'm Sungwon Yoon(@mete0rfish)
+###  A Junior Web Developer
 
-👥 협업을 통해 함께 성장하며 더 나은 서비스를 만들어나가고 있습니다.
-
-🐛 완벽한 서비스는 존재하지 않습니다. 꾸준히 다듬어가며 개선해나가는 것이 최선이라고 생각합니다.
-
-🤔 Frameworker가 아닌 SW Engineer가 되기 위해 원리를 파고들어 학습하는 것을 추구합니다.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mete0rfish&theme=vue&show_icons=true)
-<br/>
-
-## 🔥Activities
-
-| 프로젝트 | 역할 | 설명 | 성과 |
-| :---: | --- | --- | --- |
-| **[Onetool원툴](https://github.com/likelion-onetool)** | Backend | 3D 모델 도면 거래 플랫폼 | - 세종대 IT 창업 기획 컨퍼런스 우수상 <br/> - 세종대 피칭 & 멘토링대회 우수상 <br/> 외 2개 대회 입상 |
-| **[끄적](https://github.com/dog-feet-bird-feet/server)** | Backend & Leader | AI 기반 필적 분석 서비스 | - 창의설계경진대회 최우수 |
-| **[DevRoute데브루트](https://github.com/ICT-Dev-Route)** | Backend & Leader | 초보개발자를 위한 학습 로드맵 및 채용공고 기반 정보 제공 | - 2024 한이음 ICT 수료 <br/> - 2024 Seeds 프로젝트 대회 대상 |
-| [다정다감](https://www.notion.so/cf1195f5751a45db8a35406e43958e05?pvs=21) | Backend <br/> & Infra | 자취생을 위한 공구 및 거래 플랫폼 | - |
-
-- [멋쟁이 사자처럼 세종대 12기 BE트랙 수료](https://likelion.university/)
-- [2024 한이음 ICT 수료](https://www.hanium.or.kr/portal/index.do)
-- [4차산업 IT연합 동아리 Tave 10기 & 12기 활동](https://www.tave-wave.com/)
-- 세종대학교 컴퓨터공학과 (2020.03 ~ )
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mete0rfish)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EC%9B%90-%EC%9C%A4-4328aa292/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sungwon326@naver.com)
+[![Blog](https://img.shields.io/badge/-DevBlog-orange?style=flat&logoColor=white)](https://parvegoongame.tistory.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat)]()
 
 <br/>
 
-## Contact
-[개발 관련 블로그](https://parvegoongame.tistory.com/)
-[취미 블로그](https://blog.naver.com/sungwon326)
+<img width="30%" align="right" src="https://github.com/user-attachments/assets/af9c0493-e70d-46e4-a898-7e0b5228bd4b" />
+
+- ✏️ I’m currently studying on [Sejoing University](http://sejong.ac.kr/).
+- 🌱 I’m learning `Vue`, `K8S`, `Virtual Threads`.
+
+### 🔥 Contributed Projects
+
+[![Portfolio](https://img.shields.io/badge/🏗️원툴-백엔드-blue)](https://github.com/likelion-onetool)
+[![Portfolio](https://img.shields.io/badge/✏️끄적-백엔드-purple?style=flat)](https://github.com/dog-feet-bird-feet/server)
+[![Portfolio](https://img.shields.io/badge/📚데브루트-백엔드-green?style=flat)](https://github.com/ICT-Dev-Route)
+
+### 🛠️ Languages and Tools:
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<br/>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/fastapi.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<br/>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<br/>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
