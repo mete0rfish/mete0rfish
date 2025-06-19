@@ -7,9 +7,8 @@
 [![Blog](https://img.shields.io/badge/-DevBlog-orange?style=flat&logoColor=white)](https://parvegoongame.tistory.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat)]()
 
-<br/>
 
-<img width="30%" align="right" src="https://github.com/user-attachments/assets/af9c0493-e70d-46e4-a898-7e0b5228bd4b" />
+<img width="45%" align="right" src="https://github.com/user-attachments/assets/af9c0493-e70d-46e4-a898-7e0b5228bd4b" />
 
 - ✏️ I’m currently studying on [Sejoing University](http://sejong.ac.kr/).
 - 🌱 I’m learning `Vue`, `K8S`, `Virtual Threads`.
