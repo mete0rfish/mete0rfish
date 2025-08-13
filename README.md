@@ -11,21 +11,22 @@
 <img width="45%" align="right" src="https://github.com/user-attachments/assets/af9c0493-e70d-46e4-a898-7e0b5228bd4b" />
 
 - ✏️ I’m currently studying on [Sejoing University](http://sejong.ac.kr/).
+- 📚 I am also continuing to study steadily. [TIL](https://github.com/mete0rfish/TIL)
 
 ### 🔥 Projects
-- 🏗️Onetolol
+- **🏗️Onetool** [repo](https://github.com/likelion-onetool)
   - 3D Model Trading Platform
-  - [repo](https://github.com/likelion-onetool)
-- ✏️GGZZ
+- **✏️GGZZ** [repo](https://github.com/dog-feet-bird-feet/server)
   - AI-based Handwriting Analysis App
-  - [repo](https://github.com/dog-feet-bird-feet/server)
-- 📚Devroute
+- **📚Devroute** [repo](https://github.com/ICT-Dev-Route)
   - Learning Service Based On Job Postings for Novice Developers
-  - [repo](https://github.com/ICT-Dev-Route)
+  
 
 ### 🛠️ Open Source Contributions
 
+**🟦 Opend ✅ Merged 🟥 Closed**
+
 - **[node](https://github.com/nodejs/node)**
-  - [#59204](https://github.com/nodejs/node/pull/59204)
-  - [#59414](https://github.com/nodejs/node/pull/59414)
-  - [#59418](https://github.com/nodejs/node/pull/59418)
+  - ✅ test: use mustSucceed instead of mustCall [#59204](https://github.com/nodejs/node/pull/59204)
+  - ✅ test_runner: isSkipped in JUnit reporter [#59414](https://github.com/nodejs/node/pull/59414)
+  - 🟦 test_runner: add test for coverage control comments [#59418](https://github.com/nodejs/node/pull/59418)
