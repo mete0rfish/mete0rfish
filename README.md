@@ -4,8 +4,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mete0rfish)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EC%9B%90-%EC%9C%A4-4328aa292/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sungwon326@naver.com)
-[![Blog](https://img.shields.io/badge/-DevBlog-orange?style=flat&logoColor=white)](https://parvegoongame.tistory.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat)]()
+[![Blog](https://img.shields.io/badge/-DevBlog-orange?style=flat&logoColor=white)](https://mete0rfish-blog.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat)](https://mete0rfish-blog.vercel.app/resume)
 
 
 <img width="45%" align="right" src="https://github.com/user-attachments/assets/af9c0493-e70d-46e4-a898-7e0b5228bd4b" />
