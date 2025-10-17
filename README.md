@@ -31,3 +31,6 @@
   - ✅ test_runner: isSkipped in JUnit reporter [#59414](https://github.com/nodejs/node/pull/59414)
   - 🟦 test_runner: add test for coverage control comments [#59418](https://github.com/nodejs/node/pull/59418)
   - 🟦 test_runner: make signal handling configurable [#59674](https://github.com/nodejs/node/pull/59674)
+
+***
+![](https://komarev.com/ghpvc/?username=mete0rfish)
