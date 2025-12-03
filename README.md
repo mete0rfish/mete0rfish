@@ -22,7 +22,7 @@
     - **JPA의 N+1 문제 해결전략 비교를 통한 해소** **[🔗](https://meteorfish.tistory.com/6)**
 
 - **✏️GGZZ** [repo](https://github.com/dog-feet-bird-feet/server)
-  - AI-based Handwriting Analysis App
+  - AI 기반 필기체 분석 앱
   - 기여
     - **FastAPI를 활용한 Tensorflow 모델 서빙** **[🔗](https://meteorfish.tistory.com/10)**
     - **Lifecycle을 활용한 AI 모델 로딩 속도 향상**
