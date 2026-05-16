@@ -1,4 +1,4 @@
-## Sungwon (@mete0rfish)
+## mete0rfish
 
 <!-- <img width="35%" align="right" alt="Gemini_Generated_Image_lz2srzlz2srzlz2s" src="https://github.com/user-attachments/assets/1e9c653a-efad-4793-8988-3af93e7b8a71" /> -->
 
