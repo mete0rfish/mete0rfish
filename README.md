@@ -1,3 +1,3 @@
-![My Contributions](./contributions-dart.svg)
+![My Contributions](./contributions-dark.svg)
 
 ![](https://komarev.com/ghpvc/?username=mete0rfish)
