@@ -1,44 +1,41 @@
-<svg width="480" height="403" viewBox="0 0 480 403" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open-Source Contributions: 9 merged pull requests across 6 repositories" class="oss-card-cxxx2cwp9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<svg width="480" height="296" viewBox="0 0 480 296" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open-Source Contributions: 3 merged pull requests across 2 repositories" class="oss-card-cd18ddf6m" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
   <title>Open-Source Contributions</title>
-  <desc>9 merged pull requests across 6 repositories, OSS score 210</desc>
+  <desc>3 merged pull requests across 2 repositories, OSS score 70</desc>
   <style>
-    .oss-card-cxxx2cwp9 .bg-start { stop-color: #e8f4fc; }
-    .oss-card-cxxx2cwp9 .bg-end { stop-color: #f0e6fa; }
-    .oss-card-cxxx2cwp9 .card-bg { fill: #1e2130; }
-    .oss-card-cxxx2cwp9 .card-border { stroke: #2a2f45; }
-    .oss-card-cxxx2cwp9 .icon-bg { fill: #2d3348; }
-    .oss-card-cxxx2cwp9 .title-text { fill: #1a1a2e; }
-    .oss-card-cxxx2cwp9 .subtitle-text { fill: #22c55e; }
-    .oss-card-cxxx2cwp9 .subtitle-icon { fill: #22c55e; }
-    .oss-card-cxxx2cwp9 .card-title { fill: #ffffff; }
-    .oss-card-cxxx2cwp9 .pr-number { fill: #60a5fa; }
-    .oss-card-cxxx2cwp9 .card-text { fill: #a0a3b1; }
-    .oss-card-cxxx2cwp9 .badge-bg { fill: #22c55e; }
-    .oss-card-cxxx2cwp9 .badge-text { fill: #ffffff; }
-    .oss-card-cxxx2cwp9 .date-icon { fill: #22c55e; }
-    .oss-card-cxxx2cwp9 .date-text { fill: #6b7280; }
+    .oss-card-cd18ddf6m .bg-start { stop-color: #e8f4fc; }
+    .oss-card-cd18ddf6m .bg-end { stop-color: #f0e6fa; }
+    .oss-card-cd18ddf6m .card-bg { fill: #1e2130; }
+    .oss-card-cd18ddf6m .card-border { stroke: #2a2f45; }
+    .oss-card-cd18ddf6m .icon-bg { fill: #2d3348; }
+    .oss-card-cd18ddf6m .title-text { fill: #1a1a2e; }
+    .oss-card-cd18ddf6m .subtitle-text { fill: #22c55e; }
+    .oss-card-cd18ddf6m .subtitle-icon { fill: #22c55e; }
+    .oss-card-cd18ddf6m .card-title { fill: #ffffff; }
+    .oss-card-cd18ddf6m .pr-number { fill: #60a5fa; }
+    .oss-card-cd18ddf6m .card-text { fill: #a0a3b1; }
+    .oss-card-cd18ddf6m .badge-bg { fill: #22c55e; }
+    .oss-card-cd18ddf6m .badge-text { fill: #ffffff; }
+    .oss-card-cd18ddf6m .date-icon { fill: #22c55e; }
+    .oss-card-cd18ddf6m .date-text { fill: #6b7280; }
     @keyframes fadeIn {
       from { opacity: 0; }
       to { opacity: 1; }
     }
-    .oss-card-cxxx2cwp9 .card {
+    .oss-card-cd18ddf6m .card {
       animation: fadeIn 0.4s ease-out forwards;
       opacity: 0;
     }
-    .oss-card-cxxx2cwp9 .card-0 { animation-delay: 0s; }
-    .oss-card-cxxx2cwp9 .card-1 { animation-delay: 0.1s; }
-    .oss-card-cxxx2cwp9 .card-2 { animation-delay: 0.2s; }
-    .oss-card-cxxx2cwp9 .card-3 { animation-delay: 0.30000000000000004s; }
-    .oss-card-cxxx2cwp9 .card-4 { animation-delay: 0.4s; }
-    .oss-card-cxxx2cwp9 .card-5 { animation-delay: 0.5s; }
+    .oss-card-cd18ddf6m .card-0 { animation-delay: 0s; }
+    .oss-card-cd18ddf6m .card-1 { animation-delay: 0.1s; }
+    .oss-card-cd18ddf6m .card-2 { animation-delay: 0.2s; }
   </style>
   <defs>
-    <linearGradient id="bgGrad-cxxx2cwp9" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bgGrad-cd18ddf6m" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" class="bg-start"/>
       <stop offset="100%" class="bg-end"/>
     </linearGradient>
   </defs>
-  <rect width="480" height="403" fill="url(#bgGrad-cxxx2cwp9)" rx="16"/>
+  <rect width="480" height="296" fill="url(#bgGrad-cd18ddf6m)" rx="16"/>
   <g transform="translate(18, 23)">
     <text class="title-text" font-size="18" font-weight="700">
       Open-Source Contributions
@@ -46,13 +43,13 @@
     <g transform="translate(0, 26)">
       <svg width="16" height="16" viewBox="0 0 20 20"><g class="subtitle-icon"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></g></svg>
       <text class="subtitle-text" x="20" y="12" font-size="12" font-weight="600">
-        9 PRs Merged · 6 Repos
+        3 PRs Merged · 2 Repos
       </text>
     </g>
     <g transform="translate(364, 5)">
       <rect class="badge-bg" width="80" height="24" rx="12"/>
       <text class="badge-text" x="40" y="16" font-size="11" font-weight="800" text-anchor="middle">
-        Score: 210
+        Score: 70
       </text>
     </g>
   </g>
@@ -63,12 +60,12 @@
     <!-- Repo Icon -->
     <g transform="translate(14, 14)">
       <defs>
-        <clipPath id="circleView-cxxx2cwp9-0">
+        <clipPath id="circleView-cd18ddf6m-0">
           <circle cx="14" cy="14" r="14"/>
         </clipPath>
       </defs>
       <circle class="icon-bg" cx="14" cy="14" r="14"/>
-      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAsklEQVRYw+3WsQ2CUBhF4YOhsDJasIAmFOxgK61zuIUDsAWjuIBWFMTCws5IKKwI2DxcwGuCyf07mpMvj+bCxC8CaPfrOZAKelVxuPZAJmjVxx2vOHykwFkQ3QCNqLUFTrOp/2IDDTTQQAMNNNBAA39642Ctwtj89m5AL2rdP5Of8hkDC0G0GZIVwFLQaqOcbnzBTDz5H578BhpooIEGGmiggQYqJ38dBqJipnei1oV/uDc60R4Z62lqJgAAAABJRU5ErkJggg==" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cxxx2cwp9-0)"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAsklEQVRYw+3WsQ2CUBhF4YOhsDJasIAmFOxgK61zuIUDsAWjuIBWFMTCws5IKKwI2DxcwGuCyf07mpMvj+bCxC8CaPfrOZAKelVxuPZAJmjVxx2vOHykwFkQ3QCNqLUFTrOp/2IDDTTQQAMNNNBAA39642Ctwtj89m5AL2rdP5Of8hkDC0G0GZIVwFLQaqOcbnzBTDz5H578BhpooIEGGmiggQYqJ38dBqJipnei1oV/uDc60R4Z62lqJgAAAABJRU5ErkJggg==" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cd18ddf6m-0)"/>
     </g>
 
     <!-- Repo Name & PR Number -->
@@ -107,56 +104,12 @@
     <!-- Repo Icon -->
     <g transform="translate(14, 14)">
       <defs>
-        <clipPath id="circleView-cxxx2cwp9-1">
+        <clipPath id="circleView-cd18ddf6m-1">
           <circle cx="14" cy="14" r="14"/>
         </clipPath>
       </defs>
       <circle class="icon-bg" cx="14" cy="14" r="14"/>
-      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAFX0lEQVR4nOyYa0xT5x/Hv/I/9nrkUvyDCKOjqAWxjMEs4m1mOrcZmairl7C4uUzcXuzF3BSNm/OyOTMTXJz3zeki0Uw3AV3UuKDg3AVZItjWMChWKKCtoDBO6YUWlqdIgXJKD8UtvOCbkHCe3/n1+fR5ft/n0gAMc40ADlUjgEPVsAf8n7+JIWEC4cxFUcsiZPRkY6250uno7HAH+eIApCx8DePlcjTV6eBs7/C3n1H+JMUpQ2NXro/P54uoKeRZr2k+d2yrepnd4rRBEhkM1ZaTCI16xfVyU10xzmxfhof1pv8EME4piX3zk8TfAfy/d3tDNXPlyJctq60Zn/4EAa3ok2RldMjdOAcmff2/ChgRQwe+80XSdb6IUnjGmHYhjqhX2E2WsTzWZAJ5fN2MwY4kZ5MQuKxdSZfZ4CztfHyjWQ6vcEQCegJUW06DL/b+Dos4maQbTkhTqZ6xjs5RyK1YhJrWKN8fJAp8GrHJz+D2tbNwtju59E35esHTEL1lcfBx6q+FqGyWcekLUF/ZgNKCUxAHC2Ez27mkDFiD3gyBxzVHpvV+W78Qu6yMBjnLe8pj6qsvoUat8WUcrzVIpnXl+sl5TwSuSwLwhD1PQeEKvL6rCJLIsIGSWGuwu+YEYirZM0YM8bVmxWDhAIonQQDVgobKUiQvmInZmV+B4kUh5lklNFdPeqvJflPsyxDHby/hXnNcZaw+h9xNKra67DOCxBCrtyp+Zh05B9/l1icOR0RL5JCnzYb+5gVYWs29Q+4RHCPhiTefmF4NIJztM/aXZ8LAjPfWBdlrq1FzSwurWQfTnbuQRDJoqm9Ai/EepIkJCAqLgzRxEgDF47/+sjJa7H8rETaze+92LzOBEp7cGxxjF/aHszJVqFFfRK26CAbtNVj+bkW04nmEywLRiXtoqudBqlgFaeYSYglv36yPBHQCwmVPoVZd0w/QZnGSRjK8Ys880WgLQvjNeGQLtqKq5BjKLx9A5R8aVzBaEY3UxdmgJRRKC46itKAEC9/fAWniuwBGcwLrUb1rxHupj0lS5o5LV62L+wGA53bEnC9w7vs1vy4HJv0DV4tibhKUGZsRFJaCK8dWo+xSMRRz5+DFrFwI6MhBghG14HzOfKgLb3gFRJdRZq1cH3+GL6LIdFvLiow5v+QZ9tTrmEYS58WnpNhnZ+1EaNQLqCrZg4v7tsNqtmBx9meYmPqhX2dMW5sOBbszoLuh9Qyx7iQRMXRs1q6k/PwDlWvLi02/kTaBmApIXzNho3Rm3LaDtzLt5rxDS6EuvORKUG3Zi4mp7w0arAuuCic2TIdJ38gW5nTcEogpYdbnSd+Pj6XTAThO7L6Tri2q7YKbt+YNKDOO+wVHpvX0thlsI9ctn4cFApf97bRCIU2lkefbJY173HCTpj0HZcZhv+FIzQ0ABy7nQZkiOFlIUynkfwvjaLhwtHoHHt9J1m4ad1JMtfH9hvMwBJt8FvSDujZDna61OF4ZuqDw1N23K248dH3jVR9NOSSTYV5CaBUqHslgcQi5oRFDnN05HxXXy7i8zvnIHxFDh9/TM0Z0LUdzVOvirnbHGi3BOHgrE2aHyBfcgIZgE+clgWm2u/fIVR9P+U5IU9LuZ9FoK+Qheqgb5Wjv8Lo2t7hGzqCt4don/Lm4j40UBoeEC6Z5tgd13teNKTlCrpoPWOE4GIJNg15U21od1kdGa3lC2til3fm2NofhcHbZrPt/VtxEs/Ei5GmqXlsmZ0Owya+LO7p2nKmpL0esAeAs/tGQc1fbUuUORitikKb6AB0OoCRvL2rVlf72M+w17H88GgEcqkYAh6phD/hPAAAA///SrAml76CROgAAAABJRU5ErkJggg==" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cxxx2cwp9-1)"/>
-    </g>
-
-    <!-- Repo Name & PR Number -->
-    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
-      all4land-team-assis...
-    </text>
-    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
-      #7
-    </text>
-
-    <!-- PR Title -->
-    <text class="card-text" x="50" y="52" font-size="10">
-      chore: node_modules 삭제
-    </text>
-
-    <!-- Contribution Type Badge -->
-    <g transform="translate(14, 70)">
-      <rect class="badge-bg" width="65" height="18" rx="4"/>
-      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
-        Merged
-      </text>
-    </g>
-
-    <!-- Date -->
-    <g transform="translate(85, 70)">
-      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
-      <text class="date-text" x="16" y="10" font-size="9">
-        Nov 17, 2025
-      </text>
-    </g>
-  </g>
-  <g transform="translate(18, 183)" class="card card-2">
-    <rect class="card-bg" width="216" height="95" rx="12"/>
-    <rect class="card-border" width="216" height="95" rx="12" fill="none" stroke-width="1"/>
-
-    <!-- Repo Icon -->
-    <g transform="translate(14, 14)">
-      <defs>
-        <clipPath id="circleView-cxxx2cwp9-2">
-          <circle cx="14" cy="14" r="14"/>
-        </clipPath>
-      </defs>
-      <circle class="icon-bg" cx="14" cy="14" r="14"/>
-      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAFkUlEQVR4nMSYa2wUVRvHnzOzV7rtltLLy4ZuCy3wclGENEhqJMYLkhCEL0RMTEgMaoLxAiEx9oOYoNFoSKBfvHxRDAkoGBIMoR9I0C9oBI3iQmmXttDbbttdttvd6ezczjFnZqd7mZ3utrujT7I5M7Nnzvmd/3nO85w5LFTAbG7W/chL7V2db20607SlYW8yxPfx0dRoJdpG5b698mnfvs3713zm8jpaMAbACoZkXIGJQORM7/f33p2N8OP/CWD9Wu+mrQfXnVzW7n2KKAAYE6CABBMQUhhEngAhODl0dfjj4JUHJxRBEf4VQHeds77jlTXH27b7XiUEsRQsH1BRCPBJegOAGACBEwZ7zw8cHf0tfBGwRYCMk7Ft3NN6aPP+tmOsk60jdDqxBpYPSEtJ1FSkgAyD1DI2GL8a+K7/ndjgzO2KArY80fTstoP/P1mzfMkGQtJQRQDpfYrDQOszDFUSqSUAyCO/hD4P/BA8Jk5LsbIAa1d6VnW+vu7Eii31e4EgIITAQgAViYCYylVRv5YFOdL349D7wZ7hr4hCW1gAoMNj93QcWN21cY//MEKMi0JRf1ooIK1DFwwts1WcA0YAycnZW3+d7X87/Efkp+KACND6Pf6XHz+w9hOX1+FTgWinZQAqMgFJIDnqZQOqzxHARCB64c9v+44mQrMPCgJWNbobd33UcbG+vaaT3hMdqExArBCQRGLwRQ0sfY205wRjPnBh8MjdS0Nf6FyMfrF8m+9Nr9/TOZ9PLtbUxUGyBk2yB60WaolYxt36vP+UvdpebQBELNM4NbaoWFrUkCpRHhTOwOqEioSBn8UOZ41zqQGQWmxShtSs6YIqEzJXRchXkQAkE7LhPSb/wcSINSrq3k5I/k9TUZIwCLyWfeYBRJCcxsDNGEdSCVMFw2RuwWWrxxVQzwiYpg8/ELUGrIA0KAggCgrIUuH+DFNMIWmKmolapCLRQk8mbBHgOcU0qRkB0zY5KqqxzArDSsb3xBRW7zVDBtA8wAwQjf6xCckSQApGt2QUkqbCua4L6JEBRET7ZdWMjEtqqrLCZCmdp/ObN13FDAGwYQAWa9dAVF+JhERLADXI4oPPASQsAaJD0hIBTE/KIAkL3AaXaAwqvh0toKAGSZhMnJoas07FQn5nDqgrx1IvzqyoRExJhwKLALE5aB5gGpKiKbkLnKpIig13UYZyYc0WCfW/OfVSNkM8ol9pXNwiFdWtTuF/8hYJBiIzgOTCBw5TY5JlKVC1eeNgeopR0mH6Pg3ecYtSYPFURwF5m6l6uj0MS1outcToVJukOmUWh9C0q2gTigwwPWWViup2TBRmhIcGwNFLke7ECHetlEYooCxVPngThSQHrgy8ISWkpP5sbj6xiPnwjfDpVJzvrWmu2co6bLXzNaYoAEuqWcO23ex63h8QiN6NngmcDuyN9cV+zu7H4HDcOHc7dCP0JXKCVO2r3ooYZC8EKKaICsiwqCxAbpK72Xuud9/ItZFumZcT+f3MmwzdDS5/2+62T+tWL3sRFajqqmKgsdlR9LuY7vcUrJX6vciJEwM997vGro9/QzAx9ZeSDo+Wbli6vX1n26kl9VWP5f/X2GwHp4stGVCRsDhyfbz7Xs/QcWlGminWd8nHb4hBjO9J38HWZ1o+tNntDfpzuxNBE1WRQFHAyL3Y5Ttng0cSY8n+kvstteIckMdeu3JX6wf/e3T5Id0/65ps4PawpoDJSKrv9vn+w6GbU1cW2t+ij4A9zZ517bvbTnqba3ewNoAmP1UR5QBKvBzv67l/PHh5uBuLeFHfD+UdolMf7Gh4YdWOVScaWqraq7w27QgYEzz8a/jrv88Gu/ioMFlO+2UDUmPsjKP1Of/h9TtXvMZNpwZunQu+F70T/70Sbf8TAAD//+znNKMd0iHVAAAAAElFTkSuQmCC" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cxxx2cwp9-2)"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAFkUlEQVR4nMSYa2wUVRvHnzOzV7rtltLLy4ZuCy3wclGENEhqJMYLkhCEL0RMTEgMaoLxAiEx9oOYoNFoSKBfvHxRDAkoGBIMoR9I0C9oBI3iQmmXttDbbttdttvd6ezczjFnZqd7mZ3utrujT7I5M7Nnzvmd/3nO85w5LFTAbG7W/chL7V2db20607SlYW8yxPfx0dRoJdpG5b698mnfvs3713zm8jpaMAbACoZkXIGJQORM7/f33p2N8OP/CWD9Wu+mrQfXnVzW7n2KKAAYE6CABBMQUhhEngAhODl0dfjj4JUHJxRBEf4VQHeds77jlTXH27b7XiUEsRQsH1BRCPBJegOAGACBEwZ7zw8cHf0tfBGwRYCMk7Ft3NN6aPP+tmOsk60jdDqxBpYPSEtJ1FSkgAyD1DI2GL8a+K7/ndjgzO2KArY80fTstoP/P1mzfMkGQtJQRQDpfYrDQOszDFUSqSUAyCO/hD4P/BA8Jk5LsbIAa1d6VnW+vu7Eii31e4EgIITAQgAViYCYylVRv5YFOdL349D7wZ7hr4hCW1gAoMNj93QcWN21cY//MEKMi0JRf1ooIK1DFwwts1WcA0YAycnZW3+d7X87/Efkp+KACND6Pf6XHz+w9hOX1+FTgWinZQAqMgFJIDnqZQOqzxHARCB64c9v+44mQrMPCgJWNbobd33UcbG+vaaT3hMdqExArBCQRGLwRQ0sfY205wRjPnBh8MjdS0Nf6FyMfrF8m+9Nr9/TOZ9PLtbUxUGyBk2yB60WaolYxt36vP+UvdpebQBELNM4NbaoWFrUkCpRHhTOwOqEioSBn8UOZ41zqQGQWmxShtSs6YIqEzJXRchXkQAkE7LhPSb/wcSINSrq3k5I/k9TUZIwCLyWfeYBRJCcxsDNGEdSCVMFw2RuwWWrxxVQzwiYpg8/ELUGrIA0KAggCgrIUuH+DFNMIWmKmolapCLRQk8mbBHgOcU0qRkB0zY5KqqxzArDSsb3xBRW7zVDBtA8wAwQjf6xCckSQApGt2QUkqbCua4L6JEBRET7ZdWMjEtqqrLCZCmdp/ObN13FDAGwYQAWa9dAVF+JhERLADXI4oPPASQsAaJD0hIBTE/KIAkL3AaXaAwqvh0toKAGSZhMnJoas07FQn5nDqgrx1IvzqyoRExJhwKLALE5aB5gGpKiKbkLnKpIig13UYZyYc0WCfW/OfVSNkM8ol9pXNwiFdWtTuF/8hYJBiIzgOTCBw5TY5JlKVC1eeNgeopR0mH6Pg3ecYtSYPFURwF5m6l6uj0MS1outcToVJukOmUWh9C0q2gTigwwPWWViup2TBRmhIcGwNFLke7ECHetlEYooCxVPngThSQHrgy8ISWkpP5sbj6xiPnwjfDpVJzvrWmu2co6bLXzNaYoAEuqWcO23ex63h8QiN6NngmcDuyN9cV+zu7H4HDcOHc7dCP0JXKCVO2r3ooYZC8EKKaICsiwqCxAbpK72Xuud9/ItZFumZcT+f3MmwzdDS5/2+62T+tWL3sRFajqqmKgsdlR9LuY7vcUrJX6vciJEwM997vGro9/QzAx9ZeSDo+Wbli6vX1n26kl9VWP5f/X2GwHp4stGVCRsDhyfbz7Xs/QcWlGminWd8nHb4hBjO9J38HWZ1o+tNntDfpzuxNBE1WRQFHAyL3Y5Ttng0cSY8n+kvstteIckMdeu3JX6wf/e3T5Id0/65ps4PawpoDJSKrv9vn+w6GbU1cW2t+ij4A9zZ517bvbTnqba3ewNoAmP1UR5QBKvBzv67l/PHh5uBuLeFHfD+UdolMf7Gh4YdWOVScaWqraq7w27QgYEzz8a/jrv88Gu/ioMFlO+2UDUmPsjKP1Of/h9TtXvMZNpwZunQu+F70T/70Sbf8TAAD//+znNKMd0iHVAAAAAElFTkSuQmCC" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cd18ddf6m-1)"/>
     </g>
 
     <!-- Repo Name & PR Number -->
@@ -188,19 +141,19 @@
       </text>
     </g>
   </g>
-  <g transform="translate(246, 183)" class="card card-3">
+  <g transform="translate(18, 183)" class="card card-2">
     <rect class="card-bg" width="216" height="95" rx="12"/>
     <rect class="card-border" width="216" height="95" rx="12" fill="none" stroke-width="1"/>
 
     <!-- Repo Icon -->
     <g transform="translate(14, 14)">
       <defs>
-        <clipPath id="circleView-cxxx2cwp9-3">
+        <clipPath id="circleView-cd18ddf6m-2">
           <circle cx="14" cy="14" r="14"/>
         </clipPath>
       </defs>
       <circle class="icon-bg" cx="14" cy="14" r="14"/>
-      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAFkUlEQVR4nMSYa2wUVRvHnzOzV7rtltLLy4ZuCy3wclGENEhqJMYLkhCEL0RMTEgMaoLxAiEx9oOYoNFoSKBfvHxRDAkoGBIMoR9I0C9oBI3iQmmXttDbbttdttvd6ezczjFnZqd7mZ3utrujT7I5M7Nnzvmd/3nO85w5LFTAbG7W/chL7V2db20607SlYW8yxPfx0dRoJdpG5b698mnfvs3713zm8jpaMAbACoZkXIGJQORM7/f33p2N8OP/CWD9Wu+mrQfXnVzW7n2KKAAYE6CABBMQUhhEngAhODl0dfjj4JUHJxRBEf4VQHeds77jlTXH27b7XiUEsRQsH1BRCPBJegOAGACBEwZ7zw8cHf0tfBGwRYCMk7Ft3NN6aPP+tmOsk60jdDqxBpYPSEtJ1FSkgAyD1DI2GL8a+K7/ndjgzO2KArY80fTstoP/P1mzfMkGQtJQRQDpfYrDQOszDFUSqSUAyCO/hD4P/BA8Jk5LsbIAa1d6VnW+vu7Eii31e4EgIITAQgAViYCYylVRv5YFOdL349D7wZ7hr4hCW1gAoMNj93QcWN21cY//MEKMi0JRf1ooIK1DFwwts1WcA0YAycnZW3+d7X87/Efkp+KACND6Pf6XHz+w9hOX1+FTgWinZQAqMgFJIDnqZQOqzxHARCB64c9v+44mQrMPCgJWNbobd33UcbG+vaaT3hMdqExArBCQRGLwRQ0sfY205wRjPnBh8MjdS0Nf6FyMfrF8m+9Nr9/TOZ9PLtbUxUGyBk2yB60WaolYxt36vP+UvdpebQBELNM4NbaoWFrUkCpRHhTOwOqEioSBn8UOZ41zqQGQWmxShtSs6YIqEzJXRchXkQAkE7LhPSb/wcSINSrq3k5I/k9TUZIwCLyWfeYBRJCcxsDNGEdSCVMFw2RuwWWrxxVQzwiYpg8/ELUGrIA0KAggCgrIUuH+DFNMIWmKmolapCLRQk8mbBHgOcU0qRkB0zY5KqqxzArDSsb3xBRW7zVDBtA8wAwQjf6xCckSQApGt2QUkqbCua4L6JEBRET7ZdWMjEtqqrLCZCmdp/ObN13FDAGwYQAWa9dAVF+JhERLADXI4oPPASQsAaJD0hIBTE/KIAkL3AaXaAwqvh0toKAGSZhMnJoas07FQn5nDqgrx1IvzqyoRExJhwKLALE5aB5gGpKiKbkLnKpIig13UYZyYc0WCfW/OfVSNkM8ol9pXNwiFdWtTuF/8hYJBiIzgOTCBw5TY5JlKVC1eeNgeopR0mH6Pg3ecYtSYPFURwF5m6l6uj0MS1outcToVJukOmUWh9C0q2gTigwwPWWViup2TBRmhIcGwNFLke7ECHetlEYooCxVPngThSQHrgy8ISWkpP5sbj6xiPnwjfDpVJzvrWmu2co6bLXzNaYoAEuqWcO23ex63h8QiN6NngmcDuyN9cV+zu7H4HDcOHc7dCP0JXKCVO2r3ooYZC8EKKaICsiwqCxAbpK72Xuud9/ItZFumZcT+f3MmwzdDS5/2+62T+tWL3sRFajqqmKgsdlR9LuY7vcUrJX6vciJEwM997vGro9/QzAx9ZeSDo+Wbli6vX1n26kl9VWP5f/X2GwHp4stGVCRsDhyfbz7Xs/QcWlGminWd8nHb4hBjO9J38HWZ1o+tNntDfpzuxNBE1WRQFHAyL3Y5Ttng0cSY8n+kvstteIckMdeu3JX6wf/e3T5Id0/65ps4PawpoDJSKrv9vn+w6GbU1cW2t+ij4A9zZ517bvbTnqba3ewNoAmP1UR5QBKvBzv67l/PHh5uBuLeFHfD+UdolMf7Gh4YdWOVScaWqraq7w27QgYEzz8a/jrv88Gu/ioMFlO+2UDUmPsjKP1Of/h9TtXvMZNpwZunQu+F70T/70Sbf8TAAD//+znNKMd0iHVAAAAAElFTkSuQmCC" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cxxx2cwp9-3)"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAFkUlEQVR4nMSYa2wUVRvHnzOzV7rtltLLy4ZuCy3wclGENEhqJMYLkhCEL0RMTEgMaoLxAiEx9oOYoNFoSKBfvHxRDAkoGBIMoR9I0C9oBI3iQmmXttDbbttdttvd6ezczjFnZqd7mZ3utrujT7I5M7Nnzvmd/3nO85w5LFTAbG7W/chL7V2db20607SlYW8yxPfx0dRoJdpG5b698mnfvs3713zm8jpaMAbACoZkXIGJQORM7/f33p2N8OP/CWD9Wu+mrQfXnVzW7n2KKAAYE6CABBMQUhhEngAhODl0dfjj4JUHJxRBEf4VQHeds77jlTXH27b7XiUEsRQsH1BRCPBJegOAGACBEwZ7zw8cHf0tfBGwRYCMk7Ft3NN6aPP+tmOsk60jdDqxBpYPSEtJ1FSkgAyD1DI2GL8a+K7/ndjgzO2KArY80fTstoP/P1mzfMkGQtJQRQDpfYrDQOszDFUSqSUAyCO/hD4P/BA8Jk5LsbIAa1d6VnW+vu7Eii31e4EgIITAQgAViYCYylVRv5YFOdL349D7wZ7hr4hCW1gAoMNj93QcWN21cY//MEKMi0JRf1ooIK1DFwwts1WcA0YAycnZW3+d7X87/Efkp+KACND6Pf6XHz+w9hOX1+FTgWinZQAqMgFJIDnqZQOqzxHARCB64c9v+44mQrMPCgJWNbobd33UcbG+vaaT3hMdqExArBCQRGLwRQ0sfY205wRjPnBh8MjdS0Nf6FyMfrF8m+9Nr9/TOZ9PLtbUxUGyBk2yB60WaolYxt36vP+UvdpebQBELNM4NbaoWFrUkCpRHhTOwOqEioSBn8UOZ41zqQGQWmxShtSs6YIqEzJXRchXkQAkE7LhPSb/wcSINSrq3k5I/k9TUZIwCLyWfeYBRJCcxsDNGEdSCVMFw2RuwWWrxxVQzwiYpg8/ELUGrIA0KAggCgrIUuH+DFNMIWmKmolapCLRQk8mbBHgOcU0qRkB0zY5KqqxzArDSsb3xBRW7zVDBtA8wAwQjf6xCckSQApGt2QUkqbCua4L6JEBRET7ZdWMjEtqqrLCZCmdp/ObN13FDAGwYQAWa9dAVF+JhERLADXI4oPPASQsAaJD0hIBTE/KIAkL3AaXaAwqvh0toKAGSZhMnJoas07FQn5nDqgrx1IvzqyoRExJhwKLALE5aB5gGpKiKbkLnKpIig13UYZyYc0WCfW/OfVSNkM8ol9pXNwiFdWtTuF/8hYJBiIzgOTCBw5TY5JlKVC1eeNgeopR0mH6Pg3ecYtSYPFURwF5m6l6uj0MS1outcToVJukOmUWh9C0q2gTigwwPWWViup2TBRmhIcGwNFLke7ECHetlEYooCxVPngThSQHrgy8ISWkpP5sbj6xiPnwjfDpVJzvrWmu2co6bLXzNaYoAEuqWcO23ex63h8QiN6NngmcDuyN9cV+zu7H4HDcOHc7dCP0JXKCVO2r3ooYZC8EKKaICsiwqCxAbpK72Xuud9/ItZFumZcT+f3MmwzdDS5/2+62T+tWL3sRFajqqmKgsdlR9LuY7vcUrJX6vciJEwM997vGro9/QzAx9ZeSDo+Wbli6vX1n26kl9VWP5f/X2GwHp4stGVCRsDhyfbz7Xs/QcWlGminWd8nHb4hBjO9J38HWZ1o+tNntDfpzuxNBE1WRQFHAyL3Y5Ttng0cSY8n+kvstteIckMdeu3JX6wf/e3T5Id0/65ps4PawpoDJSKrv9vn+w6GbU1cW2t+ij4A9zZ517bvbTnqba3ewNoAmP1UR5QBKvBzv67l/PHh5uBuLeFHfD+UdolMf7Gh4YdWOVScaWqraq7w27QgYEzz8a/jrv88Gu/ioMFlO+2UDUmPsjKP1Of/h9TtXvMZNpwZunQu+F70T/70Sbf8TAAD//+znNKMd0iHVAAAAAElFTkSuQmCC" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cd18ddf6m-2)"/>
     </g>
 
     <!-- Repo Name & PR Number -->
@@ -229,94 +182,6 @@
       <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
       <text class="date-text" x="16" y="10" font-size="9">
         Jul 27, 2025
-      </text>
-    </g>
-  </g>
-  <g transform="translate(18, 290)" class="card card-4">
-    <rect class="card-bg" width="216" height="95" rx="12"/>
-    <rect class="card-border" width="216" height="95" rx="12" fill="none" stroke-width="1"/>
-
-    <!-- Repo Icon -->
-    <g transform="translate(14, 14)">
-      <defs>
-        <clipPath id="circleView-cxxx2cwp9-4">
-          <circle cx="14" cy="14" r="14"/>
-        </clipPath>
-      </defs>
-      <circle class="icon-bg" cx="14" cy="14" r="14"/>
-      <image href="data:image/png;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACgAKAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6KwPGus3fh/wfqOqWKRPdQIpjEoJXJYLzgj1rib34oX7WF9NZwW8M9ppQnnhmQs0F0LgROjAHoAcj8DRcdj1WivPYfFurr4Ou9chvbLUvsFwHuF+wy2m6AAF1XzD9/ByD04x1qfUtc8UHwdqPiKzl023ii8y5topIWkZ7ZUyu47htdiCcY4zg8ii4WO7orK8OPqkuiwTavcW09zMokDW8RjUKQCBgk89ea1aBGD40/sseD9RbWjN/Z6xhpvI++cMCAvuSAK4q+sdJ1VfEGqT+E/EVteXkEUV1DGsal4924SId23PyDPOeBxyTXoeuWU+paHeWdsbYTTRlF+0xeZEfZl7g9K5fwj4Q1LRU1YXJsbSG8jWOKxsZZZIYmAIL/vOQTkcAYwBSGc+mpaZc+DrGTULHxXqFne6lCbaG8ljkkum2F1X7wBj+TJB74rY1CTTNM8KXCy6NrKJ4lvHgbTgyCWOSVW3bQW2qDsLdTy34BuseBNQvfAXh3QozYT3GlywyTJcSSJFKEjdSAyjd1YdhVq48ESah4Z0HSbm3sLeKyvfPubeCWRo2jKygqjN82T5g647+1AHR+HdRtdT0WGW0inhSItbtDOAJImjOxlbBIyCOxrVqtp+nWmlWMdlYwJBbR52xp0GTkn3JJJzVmmIKKKKACiiigAooooA//9k=" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cxxx2cwp9-4)"/>
-    </g>
-
-    <!-- Repo Name & PR Number -->
-    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
-      next-step/spring-ro...
-    </text>
-    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
-      #258
-    </text>
-
-    <!-- PR Title -->
-    <text class="card-text" x="50" y="52" font-size="10">
-      [Spring Core] 윤성원 미션 제출합니다.
-    </text>
-
-    <!-- Contribution Type Badge -->
-    <g transform="translate(14, 70)">
-      <rect class="badge-bg" width="65" height="18" rx="4"/>
-      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
-        Merged
-      </text>
-    </g>
-
-    <!-- Date -->
-    <g transform="translate(85, 70)">
-      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
-      <text class="date-text" x="16" y="10" font-size="9">
-        Jul 1, 2024
-      </text>
-    </g>
-  </g>
-  <g transform="translate(246, 290)" class="card card-5">
-    <rect class="card-bg" width="216" height="95" rx="12"/>
-    <rect class="card-border" width="216" height="95" rx="12" fill="none" stroke-width="1"/>
-
-    <!-- Repo Icon -->
-    <g transform="translate(14, 14)">
-      <defs>
-        <clipPath id="circleView-cxxx2cwp9-5">
-          <circle cx="14" cy="14" r="14"/>
-        </clipPath>
-      </defs>
-      <circle class="icon-bg" cx="14" cy="14" r="14"/>
-      <image href="data:image/png;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACgAKAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6KwPGus3fh/wfqOqWKRPdQIpjEoJXJYLzgj1rib34oX7WF9NZwW8M9ppQnnhmQs0F0LgROjAHoAcj8DRcdj1WivPYfFurr4Ou9chvbLUvsFwHuF+wy2m6AAF1XzD9/ByD04x1qfUtc8UHwdqPiKzl023ii8y5topIWkZ7ZUyu47htdiCcY4zg8ii4WO7orK8OPqkuiwTavcW09zMokDW8RjUKQCBgk89ea1aBGD40/sseD9RbWjN/Z6xhpvI++cMCAvuSAK4q+sdJ1VfEGqT+E/EVteXkEUV1DGsal4924SId23PyDPOeBxyTXoeuWU+paHeWdsbYTTRlF+0xeZEfZl7g9K5fwj4Q1LRU1YXJsbSG8jWOKxsZZZIYmAIL/vOQTkcAYwBSGc+mpaZc+DrGTULHxXqFne6lCbaG8ljkkum2F1X7wBj+TJB74rY1CTTNM8KXCy6NrKJ4lvHgbTgyCWOSVW3bQW2qDsLdTy34BuseBNQvfAXh3QozYT3GlywyTJcSSJFKEjdSAyjd1YdhVq48ESah4Z0HSbm3sLeKyvfPubeCWRo2jKygqjN82T5g647+1AHR+HdRtdT0WGW0inhSItbtDOAJImjOxlbBIyCOxrVqtp+nWmlWMdlYwJBbR52xp0GTkn3JJJzVmmIKKKKACiiigAooooA//9k=" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cxxx2cwp9-5)"/>
-    </g>
-
-    <!-- Repo Name & PR Number -->
-    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
-      next-step/spring-ro...
-    </text>
-    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
-      #216
-    </text>
-
-    <!-- PR Title -->
-    <text class="card-text" x="50" y="52" font-size="10">
-      [Spring MVC] 윤성원 미션제출합니다.
-    </text>
-
-    <!-- Contribution Type Badge -->
-    <g transform="translate(14, 70)">
-      <rect class="badge-bg" width="65" height="18" rx="4"/>
-      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
-        Merged
-      </text>
-    </g>
-
-    <!-- Date -->
-    <g transform="translate(85, 70)">
-      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
-      <text class="date-text" x="16" y="10" font-size="9">
-        May 27, 2024
       </text>
     </g>
   </g>
