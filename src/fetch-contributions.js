@@ -119,7 +119,7 @@ async function fetchAvatarAsBase64(url) {
 }
 
 export async function fetchContributions(username, token = null, options = {}) {
-  const { excludeOrgs = [], includeOrgs = [] } = options;
+  const { excludeOrgs = [], includeOrgs = [], includeRepos = [] } = options;
 
   // 입력 검증
   if (!username || typeof username !== 'string') {
@@ -131,6 +131,15 @@ export async function fetchContributions(username, token = null, options = {}) {
     throw new Error('Invalid GitHub username format');
   }
 
+  const normalizedIncludeRepos = [...new Set(includeRepos.map(repo => repo.trim().toLowerCase()))];
+  const invalidRepo = normalizedIncludeRepos.find(repo =>
+    !/^[a-z0-9](?:[a-z0-9]|-(?=[a-z0-9])){0,38}\/[a-z0-9._-]{1,100}$/i.test(repo)
+  );
+  if (invalidRepo) {
+    throw new Error(`Invalid repository format "${invalidRepo}". Expected "owner/repo".`);
+  }
+  const includeRepoSet = new Set(normalizedIncludeRepos);
+
   const headers = {
     'Accept': 'application/vnd.github.v3+json'
   };
@@ -139,8 +148,12 @@ export async function fetchContributions(username, token = null, options = {}) {
     headers['Authorization'] = `token ${token}`;
   }
 
-  // 자신의 레포를 제외한 merged PR만 검색
-  const query = encodeURIComponent(`author:${sanitizedUsername} type:pr is:merged -user:${sanitizedUsername}`);
+  // 자신의 레포를 제외한 merged PR만 검색. 저장소가 지정되면 해당 저장소를
+  // 검색 쿼리에 직접 넣어 전체 검색 결과 1000개 제한의 영향을 최소화한다.
+  const baseQuery = `author:${sanitizedUsername} type:pr is:merged -user:${sanitizedUsername}`;
+  const searchQueries = normalizedIncludeRepos.length > 0
+    ? normalizedIncludeRepos.map(repo => `${baseQuery} repo:${repo}`)
+    : [baseQuery];
 
   // GitHub Search API는 최대 1000개 결과(10페이지 × 100)까지 지원
   const PER_PAGE = 100;
@@ -148,30 +161,34 @@ export async function fetchContributions(username, token = null, options = {}) {
   const allItems = [];
   let searchTotalCount = 0;
 
-  for (let page = 1; page <= MAX_PAGES; page++) {
-    const url = `https://api.github.com/search/issues?q=${query}&per_page=${PER_PAGE}&page=${page}&sort=updated`;
+  for (const searchQuery of searchQueries) {
+    const query = encodeURIComponent(searchQuery);
 
-    let data;
-    try {
-      data = await httpsGet(url, headers);
-    } catch (err) {
-      throw new Error(`Failed to fetch contributions: ${err.message}`);
+    for (let page = 1; page <= MAX_PAGES; page++) {
+      const url = `https://api.github.com/search/issues?q=${query}&per_page=${PER_PAGE}&page=${page}&sort=updated`;
+
+      let data;
+      try {
+        data = await httpsGet(url, headers);
+      } catch (err) {
+        throw new Error(`Failed to fetch contributions: ${err.message}`);
+      }
+
+      // 응답 데이터 검증
+      if (!data || typeof data !== 'object') {
+        throw new Error('Invalid response from GitHub API');
+      }
+
+      if (page === 1) {
+        searchTotalCount += data.total_count || 0;
+      }
+
+      const pageItems = Array.isArray(data.items) ? data.items : [];
+      allItems.push(...pageItems);
+
+      // 마지막 페이지(전체보다 적게 받으면 더 가져올 게 없음)
+      if (pageItems.length < PER_PAGE) break;
     }
-
-    // 응답 데이터 검증
-    if (!data || typeof data !== 'object') {
-      throw new Error('Invalid response from GitHub API');
-    }
-
-    if (page === 1) {
-      searchTotalCount = data.total_count || 0;
-    }
-
-    const pageItems = Array.isArray(data.items) ? data.items : [];
-    allItems.push(...pageItems);
-
-    // 마지막 페이지(전체보다 적게 받으면 더 가져올 게 없음)
-    if (pageItems.length < PER_PAGE) break;
   }
 
   // 레포별로 그룹화
@@ -192,6 +209,11 @@ export async function fetchContributions(username, token = null, options = {}) {
 
     // org/user 필터링
     const orgName = repoFullName.split('/')[0].toLowerCase();
+
+    // includeRepos가 설정되어 있으면 정확히 일치하는 저장소만 포함
+    if (includeRepoSet.size > 0 && !includeRepoSet.has(repoFullName.toLowerCase())) {
+      continue;
+    }
 
     // includeOrgs가 설정되어 있으면 해당 org만 포함
     if (includeOrgs.length > 0) {
@@ -251,9 +273,9 @@ export async function fetchContributions(username, token = null, options = {}) {
 
   // totalPRs는 필터링 이후 실제 카운트로 계산 (include/exclude org가 있을 때도 카드 값과 일치시킴)
   // 필터가 없고 결과가 1000개 제한에 도달하지 않은 경우엔 searchTotalCount와 동일
-  const hasOrgFilter = includeOrgs.length > 0 || excludeOrgs.length > 0;
+  const hasFilter = includeOrgs.length > 0 || excludeOrgs.length > 0 || includeRepoSet.size > 0;
   const filteredTotalPRs = contributions.reduce((sum, r) => sum + r.prs.length, 0);
-  const totalPRs = hasOrgFilter ? filteredTotalPRs : Math.max(filteredTotalPRs, searchTotalCount);
+  const totalPRs = hasFilter ? filteredTotalPRs : Math.max(filteredTotalPRs, searchTotalCount);
 
   return {
     username: sanitizedUsername,
@@ -297,7 +319,10 @@ async function fetchSinglePR({ owner, repo, prNumber, headers }) {
  * @param {string|null} token - GitHub API 토큰
  * @returns {Object[]} contributions 배열
  */
-export async function fetchFeaturedPRs(prList, token = null) {
+export async function fetchFeaturedPRs(prList, token = null, options = {}) {
+  const includeRepoSet = new Set(
+    (options.includeRepos || []).map(repo => repo.trim().toLowerCase())
+  );
   const headers = {
     'Accept': 'application/vnd.github.v3+json'
   };
@@ -314,6 +339,9 @@ export async function fetchFeaturedPRs(prList, token = null) {
       continue;
     }
     const repoFullName = match[1];
+    if (includeRepoSet.size > 0 && !includeRepoSet.has(repoFullName.toLowerCase())) {
+      continue;
+    }
     const prNumber = parseInt(match[2], 10);
     const [owner, repo] = repoFullName.split('/');
     parsed.push({ entry, repoFullName, owner, repo, prNumber });

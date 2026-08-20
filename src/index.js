@@ -87,6 +87,7 @@ async function main() {
   const monthsAgo = process.env.MONTHS_AGO ? parseInt(process.env.MONTHS_AGO, 10) : null;
   const excludeOrgs = process.env.EXCLUDE_ORGS ? process.env.EXCLUDE_ORGS.split(',').map(s => s.trim()).filter(Boolean) : [];
   const includeOrgs = process.env.INCLUDE_ORGS ? process.env.INCLUDE_ORGS.split(',').map(s => s.trim()).filter(Boolean) : [];
+  const includeRepos = process.env.INCLUDE_REPOS ? process.env.INCLUDE_REPOS.split(',').map(s => s.trim()).filter(Boolean) : [];
   const featuredPrsPath = process.env.FEATURED_PRS_PATH || './featured-prs.json';
   const useMock = process.env.USE_MOCK === 'true' || process.argv.includes('--mock');
   const previewThemes = process.env.PREVIEW_THEMES ? process.env.PREVIEW_THEMES.split(',').map(s => s.trim()).filter(Boolean) : [];
@@ -113,6 +114,9 @@ async function main() {
   if (includeOrgs.length > 0) {
     console.log(`Including only orgs: ${includeOrgs.join(', ')}`);
   }
+  if (includeRepos.length > 0) {
+    console.log(`Including only repositories: ${includeRepos.join(', ')}`);
+  }
 
   try {
     let data;
@@ -120,7 +124,7 @@ async function main() {
     if (useMock) {
       data = getMockData(username);
     } else {
-      data = await fetchContributions(username, token, { excludeOrgs, includeOrgs });
+      data = await fetchContributions(username, token, { excludeOrgs, includeOrgs, includeRepos });
     }
 
     // featured-prs.json이 존재하면 카드에 표시할 PR을 해당 파일 기준으로 교체
@@ -131,7 +135,7 @@ async function main() {
 
         if (Array.isArray(prList) && prList.length > 0) {
           console.log(`\nFeatured PRs mode: loading ${prList.length} PR(s) from ${featuredPrsPath}`);
-          const featuredContributions = await fetchFeaturedPRs(prList, token);
+          const featuredContributions = await fetchFeaturedPRs(prList, token, { includeRepos });
 
           // totalPRs, totalRepos는 기존 API 결과 유지, contributions만 교체
           data = {

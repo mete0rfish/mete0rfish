@@ -6,6 +6,11 @@ on:
     - cron: '0 0,8,16 * * *'
   # 수동 실행 지원
   workflow_dispatch:
+    inputs:
+      include_repos:
+        description: '표시할 저장소 (owner/repo, 쉼표로 구분)'
+        required: false
+        type: string
   # main/master 브랜치 push 시 실행
   push:
     branches:
@@ -44,6 +49,7 @@ jobs:
           MONTHS_AGO: ${{ vars.MONTHS_AGO || '' }}
           EXCLUDE_ORGS: ${{ vars.EXCLUDE_ORGS || '' }}
           INCLUDE_ORGS: ${{ vars.INCLUDE_ORGS || '' }}
+          INCLUDE_REPOS: ${{ inputs.include_repos || vars.INCLUDE_REPOS || '' }}
           FEATURED_PRS_PATH: ${{ vars.FEATURED_PRS_PATH || './featured-prs.json' }}
           LOCALE: ${{ vars.LOCALE || 'en-US' }}
           WIDTH: ${{ vars.WIDTH || '480' }}
