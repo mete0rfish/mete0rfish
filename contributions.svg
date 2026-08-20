@@ -1,41 +1,44 @@
-<svg width="480" height="296" viewBox="0 0 480 296" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open-Source Contributions: 3 merged pull requests across 3 repositories" class="oss-card-c2oe7n1ch" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<svg width="480" height="403" viewBox="0 0 480 403" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open-Source Contributions: 224 merged pull requests across 13 repositories" class="oss-card-cw05cjlg8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
   <title>Open-Source Contributions</title>
-  <desc>3 merged pull requests across 3 repositories, OSS score 90</desc>
+  <desc>224 merged pull requests across 13 repositories, OSS score 2500</desc>
   <style>
-    .oss-card-c2oe7n1ch .bg-start { stop-color: #e8f4fc; }
-    .oss-card-c2oe7n1ch .bg-end { stop-color: #f0e6fa; }
-    .oss-card-c2oe7n1ch .card-bg { fill: #1e2130; }
-    .oss-card-c2oe7n1ch .card-border { stroke: #2a2f45; }
-    .oss-card-c2oe7n1ch .icon-bg { fill: #2d3348; }
-    .oss-card-c2oe7n1ch .title-text { fill: #1a1a2e; }
-    .oss-card-c2oe7n1ch .subtitle-text { fill: #22c55e; }
-    .oss-card-c2oe7n1ch .subtitle-icon { fill: #22c55e; }
-    .oss-card-c2oe7n1ch .card-title { fill: #ffffff; }
-    .oss-card-c2oe7n1ch .pr-number { fill: #60a5fa; }
-    .oss-card-c2oe7n1ch .card-text { fill: #a0a3b1; }
-    .oss-card-c2oe7n1ch .badge-bg { fill: #22c55e; }
-    .oss-card-c2oe7n1ch .badge-text { fill: #ffffff; }
-    .oss-card-c2oe7n1ch .date-icon { fill: #22c55e; }
-    .oss-card-c2oe7n1ch .date-text { fill: #6b7280; }
+    .oss-card-cw05cjlg8 .bg-start { stop-color: #e8f4fc; }
+    .oss-card-cw05cjlg8 .bg-end { stop-color: #f0e6fa; }
+    .oss-card-cw05cjlg8 .card-bg { fill: #1e2130; }
+    .oss-card-cw05cjlg8 .card-border { stroke: #2a2f45; }
+    .oss-card-cw05cjlg8 .icon-bg { fill: #2d3348; }
+    .oss-card-cw05cjlg8 .title-text { fill: #1a1a2e; }
+    .oss-card-cw05cjlg8 .subtitle-text { fill: #22c55e; }
+    .oss-card-cw05cjlg8 .subtitle-icon { fill: #22c55e; }
+    .oss-card-cw05cjlg8 .card-title { fill: #ffffff; }
+    .oss-card-cw05cjlg8 .pr-number { fill: #60a5fa; }
+    .oss-card-cw05cjlg8 .card-text { fill: #a0a3b1; }
+    .oss-card-cw05cjlg8 .badge-bg { fill: #22c55e; }
+    .oss-card-cw05cjlg8 .badge-text { fill: #ffffff; }
+    .oss-card-cw05cjlg8 .date-icon { fill: #22c55e; }
+    .oss-card-cw05cjlg8 .date-text { fill: #6b7280; }
     @keyframes fadeIn {
       from { opacity: 0; }
       to { opacity: 1; }
     }
-    .oss-card-c2oe7n1ch .card {
+    .oss-card-cw05cjlg8 .card {
       animation: fadeIn 0.4s ease-out forwards;
       opacity: 0;
     }
-    .oss-card-c2oe7n1ch .card-0 { animation-delay: 0s; }
-    .oss-card-c2oe7n1ch .card-1 { animation-delay: 0.1s; }
-    .oss-card-c2oe7n1ch .card-2 { animation-delay: 0.2s; }
+    .oss-card-cw05cjlg8 .card-0 { animation-delay: 0s; }
+    .oss-card-cw05cjlg8 .card-1 { animation-delay: 0.1s; }
+    .oss-card-cw05cjlg8 .card-2 { animation-delay: 0.2s; }
+    .oss-card-cw05cjlg8 .card-3 { animation-delay: 0.30000000000000004s; }
+    .oss-card-cw05cjlg8 .card-4 { animation-delay: 0.4s; }
+    .oss-card-cw05cjlg8 .card-5 { animation-delay: 0.5s; }
   </style>
   <defs>
-    <linearGradient id="bgGrad-c2oe7n1ch" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bgGrad-cw05cjlg8" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" class="bg-start"/>
       <stop offset="100%" class="bg-end"/>
     </linearGradient>
   </defs>
-  <rect width="480" height="296" fill="url(#bgGrad-c2oe7n1ch)" rx="16"/>
+  <rect width="480" height="403" fill="url(#bgGrad-cw05cjlg8)" rx="16"/>
   <g transform="translate(18, 23)">
     <text class="title-text" font-size="18" font-weight="700">
       Open-Source Contributions
@@ -43,13 +46,13 @@
     <g transform="translate(0, 26)">
       <svg width="16" height="16" viewBox="0 0 20 20"><g class="subtitle-icon"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></g></svg>
       <text class="subtitle-text" x="20" y="12" font-size="12" font-weight="600">
-        3 PRs Merged · 3 Repos
+        224 PRs Merged · 13 Repos
       </text>
     </g>
     <g transform="translate(364, 5)">
       <rect class="badge-bg" width="80" height="24" rx="12"/>
       <text class="badge-text" x="40" y="16" font-size="11" font-weight="800" text-anchor="middle">
-        Score: 90
+        Score: 2500
       </text>
     </g>
   </g>
@@ -60,25 +63,25 @@
     <!-- Repo Icon -->
     <g transform="translate(14, 14)">
       <defs>
-        <clipPath id="circleView-c2oe7n1ch-0">
+        <clipPath id="circleView-cw05cjlg8-0">
           <circle cx="14" cy="14" r="14"/>
         </clipPath>
       </defs>
       <circle class="icon-bg" cx="14" cy="14" r="14"/>
-      <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-c2oe7n1ch-0)"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAsklEQVRYw+3WsQ2CUBhF4YOhsDJasIAmFOxgK61zuIUDsAWjuIBWFMTCws5IKKwI2DxcwGuCyf07mpMvj+bCxC8CaPfrOZAKelVxuPZAJmjVxx2vOHykwFkQ3QCNqLUFTrOp/2IDDTTQQAMNNNBAA39642Ctwtj89m5AL2rdP5Of8hkDC0G0GZIVwFLQaqOcbnzBTDz5H578BhpooIEGGmiggQYqJ38dBqJipnei1oV/uDc60R4Z62lqJgAAAABJRU5ErkJggg==" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cw05cjlg8-0)"/>
     </g>
 
     <!-- Repo Name & PR Number -->
     <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
-      ros2/rclcpp
+      microsoft/playwrigh...
     </text>
     <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
-      #3047
+      #3328
     </text>
 
     <!-- PR Title -->
     <text class="card-text" x="50" y="52" font-size="10">
-      Add library dependency to no...
+      fix(transport): throw Target...
     </text>
 
     <!-- Contribution Type Badge -->
@@ -93,7 +96,7 @@
     <g transform="translate(85, 70)">
       <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
       <text class="date-text" x="16" y="10" font-size="9">
-        Feb 2, 2026
+        Aug 12, 2026
       </text>
     </g>
   </g>
@@ -104,25 +107,25 @@
     <!-- Repo Icon -->
     <g transform="translate(14, 14)">
       <defs>
-        <clipPath id="circleView-c2oe7n1ch-1">
+        <clipPath id="circleView-cw05cjlg8-1">
           <circle cx="14" cy="14" r="14"/>
         </clipPath>
       </defs>
       <circle class="icon-bg" cx="14" cy="14" r="14"/>
-      <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-c2oe7n1ch-1)"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAAFSklEQVR4nOSXW2wTxxrHZ9Z7GTskISfHNgm2k4NPTHIOkJQgcFtKi9RSqRUCVX3goRJIPFBVPPDWpz71lT4UCYm2oupDW1SphVJacWu5FZISSIBAnGBCIA52Yid2HBJ7vbuzO9XumM2mENsp4SL1n9Vcdr+dX77ZmW8+s7FYDDwLMc+ECgBg5/pCJpvVVI22IdQL2kAI2Wy2JwUeiiY+/Gj3oirCMAzHcSzLmX/BNavXvbK29KHmMNWEkD2fHxpKyCrh7HY70i9EG3a7vbcvnE6nnwi4raOn/XIvIWAwrkwDjRIhO8/zl7uuEkLmGSzLyp4vDtH2WFpJTxHK1v3WJSAkpFLjw8Mj8ww+cPB0dDhpdq+Hkzwv6LS8kN5Bws1b/aqqzhcYAgCjI0nrrams0h9Jo7wEegkC0jQydC86L2Co7xUId2zd6HAg64MrPTECbZRnXHl8YnRMkqTHBEO6VQkhVQsXbNuywfrMX1/7UnCVyUP5aec5jhuJJx4LTAykpmmqoc1vvezzuMynH2zfVO/zVldX04/M69/cKAQ+J0nZrPg3wYQAisQY05IQbcfWt+nT9WubW5b5IYSB//op16TS6v7kZOGtVQCcd1RVVQVjRVFkRVnWVBdc1YgEbuf2zdSsoqLc7XIarAduGxWEUMzlCoALhEyIMdadpo5rGq3fe3d9a3PA7aoy7WoWuXE0BiFkWdbGMIzNEMMoWH+JYR7t26weMwyEEMi6p7JeGrUsyxXlaMNrL1gtk+OTR45fEnh9WXE8rQyxrKpps45fYDYEnlcxNqmSRC8pHk9Ikmya7d1/+OAvbYnkfZPI57ksNDbFnMEMw9jtyEDqMmsxl4sMDdG1c/lq+PT5a6qqffnNCX7aVfbBfM96UBYJIGUOBwRAekjDI4l0egJj9dPPDlLLru7+S1fCbJ7H0JKZ3eMi5zGE0Pnv6tStNN1UVFiX2hPqiybEO5HpU2Hv/p9WtzY57Bw0pAeC2XdU8VjtcDgqysupozmLRsdG2y5esVrGR8cP/HCKocuSFKKWejr5vItVVaU8UcyZjeVLXQI/Y86+/f63eCJlIIsczCWBOY6r83kNnGSWkpQjGm5pclktPbXO6qryotQ5nMc+rwchZJ1qUcyJoljrRJULONNs1/vvsGxJKV+pYIZhWlYsp19ZnFY2J4qBujJqs35tS2tzoNQBS7QDALjdLq/Hk/fUoNJKsCnOSgYJ/M7tm0ofbW4JfTC4WtO0nLHAaSHLEsbY62a3bXnDGsCLCv7jfsI8H+D0xOThoxduDeTTxN7wYHdo4Fz7ddoNhQePHGsfiiZomn3ybOeRY+3xxDgAAKvqhY4bJ8500pMDY/X8xRsnH3QzWfHXs11/Ac+IO4ePXjh+uqtiwaV9n+wCAJxr7w6FI5lMbt2LywEAZ9uuhfoiSxu8AOhZUUdXX+hmpHmZHwCQGp/4ePfXZQ7kr6vx/6c2lc53G5YsrvctSk9M7fvq59dfXTmrx7KC631uBWPzTrj/ntXgf0t9Ab8HAICQsGZl45K6Gpr+aYRwHOt2VckKNv4twvOs27lQUXBJU/2wJqdmJIunfr9a2L50FQFXljus3Y1vBp8IGAn87TsxgZ+OvYEGj9WgraMndHPwEaNAPbWLjSSRwNP4Kit4OJ4SjC4A4P5k5rsfz1hfmRFApjLixc6+gN/jXewEAAzcjSlYzWRzK1c0AABu341F7iUaG3w17n/R03csOfH/xnoAgKpq13sHRFEOrmqCEKqq1h0akCR5TaveFUXpj87eyooyOs4jwE9Tz0cAeZr6MwAA//8VwwKfcl+z2gAAAABJRU5ErkJggg==" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cw05cjlg8-1)"/>
     </g>
 
     <!-- Repo Name & PR Number -->
     <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
-      ros2/rclpy
+      likelion-onetool/ba...
     </text>
     <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
-      #1492
+      #243
     </text>
 
     <!-- PR Title -->
     <text class="card-text" x="50" y="52" font-size="10">
-      Fix: deadlock when calling r...
+      feat(chat): STOMP 도입
     </text>
 
     <!-- Contribution Type Badge -->
@@ -137,7 +140,7 @@
     <g transform="translate(85, 70)">
       <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
       <text class="date-text" x="16" y="10" font-size="9">
-        Oct 2, 2025
+        Dec 8, 2025
       </text>
     </g>
   </g>
@@ -148,25 +151,25 @@
     <!-- Repo Icon -->
     <g transform="translate(14, 14)">
       <defs>
-        <clipPath id="circleView-c2oe7n1ch-2">
+        <clipPath id="circleView-cw05cjlg8-2">
           <circle cx="14" cy="14" r="14"/>
         </clipPath>
       </defs>
       <circle class="icon-bg" cx="14" cy="14" r="14"/>
-      <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-c2oe7n1ch-2)"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAAFSklEQVR4nOSXW2wTxxrHZ9Z7GTskISfHNgm2k4NPTHIOkJQgcFtKi9RSqRUCVX3goRJIPFBVPPDWpz71lT4UCYm2oupDW1SphVJacWu5FZISSIBAnGBCIA52Yid2HBJ7vbuzO9XumM2mENsp4SL1n9Vcdr+dX77ZmW8+s7FYDDwLMc+ECgBg5/pCJpvVVI22IdQL2kAI2Wy2JwUeiiY+/Gj3oirCMAzHcSzLmX/BNavXvbK29KHmMNWEkD2fHxpKyCrh7HY70i9EG3a7vbcvnE6nnwi4raOn/XIvIWAwrkwDjRIhO8/zl7uuEkLmGSzLyp4vDtH2WFpJTxHK1v3WJSAkpFLjw8Mj8ww+cPB0dDhpdq+Hkzwv6LS8kN5Bws1b/aqqzhcYAgCjI0nrrams0h9Jo7wEegkC0jQydC86L2Co7xUId2zd6HAg64MrPTECbZRnXHl8YnRMkqTHBEO6VQkhVQsXbNuywfrMX1/7UnCVyUP5aec5jhuJJx4LTAykpmmqoc1vvezzuMynH2zfVO/zVldX04/M69/cKAQ+J0nZrPg3wYQAisQY05IQbcfWt+nT9WubW5b5IYSB//op16TS6v7kZOGtVQCcd1RVVQVjRVFkRVnWVBdc1YgEbuf2zdSsoqLc7XIarAduGxWEUMzlCoALhEyIMdadpo5rGq3fe3d9a3PA7aoy7WoWuXE0BiFkWdbGMIzNEMMoWH+JYR7t26weMwyEEMi6p7JeGrUsyxXlaMNrL1gtk+OTR45fEnh9WXE8rQyxrKpps45fYDYEnlcxNqmSRC8pHk9Ikmya7d1/+OAvbYnkfZPI57ksNDbFnMEMw9jtyEDqMmsxl4sMDdG1c/lq+PT5a6qqffnNCX7aVfbBfM96UBYJIGUOBwRAekjDI4l0egJj9dPPDlLLru7+S1fCbJ7H0JKZ3eMi5zGE0Pnv6tStNN1UVFiX2hPqiybEO5HpU2Hv/p9WtzY57Bw0pAeC2XdU8VjtcDgqysupozmLRsdG2y5esVrGR8cP/HCKocuSFKKWejr5vItVVaU8UcyZjeVLXQI/Y86+/f63eCJlIIsczCWBOY6r83kNnGSWkpQjGm5pclktPbXO6qryotQ5nMc+rwchZJ1qUcyJoljrRJULONNs1/vvsGxJKV+pYIZhWlYsp19ZnFY2J4qBujJqs35tS2tzoNQBS7QDALjdLq/Hk/fUoNJKsCnOSgYJ/M7tm0ofbW4JfTC4WtO0nLHAaSHLEsbY62a3bXnDGsCLCv7jfsI8H+D0xOThoxduDeTTxN7wYHdo4Fz7ddoNhQePHGsfiiZomn3ybOeRY+3xxDgAAKvqhY4bJ8500pMDY/X8xRsnH3QzWfHXs11/Ac+IO4ePXjh+uqtiwaV9n+wCAJxr7w6FI5lMbt2LywEAZ9uuhfoiSxu8AOhZUUdXX+hmpHmZHwCQGp/4ePfXZQ7kr6vx/6c2lc53G5YsrvctSk9M7fvq59dfXTmrx7KC631uBWPzTrj/ntXgf0t9Ab8HAICQsGZl45K6Gpr+aYRwHOt2VckKNv4twvOs27lQUXBJU/2wJqdmJIunfr9a2L50FQFXljus3Y1vBp8IGAn87TsxgZ+OvYEGj9WgraMndHPwEaNAPbWLjSSRwNP4Kit4OJ4SjC4A4P5k5rsfz1hfmRFApjLixc6+gN/jXewEAAzcjSlYzWRzK1c0AABu341F7iUaG3w17n/R03csOfH/xnoAgKpq13sHRFEOrmqCEKqq1h0akCR5TaveFUXpj87eyooyOs4jwE9Tz0cAeZr6MwAA//8VwwKfcl+z2gAAAABJRU5ErkJggg==" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cw05cjlg8-2)"/>
     </g>
 
     <!-- Repo Name & PR Number -->
     <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
-      ros2/rosbag2
+      likelion-onetool/ba...
     </text>
     <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
-      #2135
+      #242
     </text>
 
     <!-- PR Title -->
     <text class="card-text" x="50" y="52" font-size="10">
-      Fix: Add null pointer check ...
+      batch-size 사용을 통한 N+1 문제 해결
     </text>
 
     <!-- Contribution Type Badge -->
@@ -181,7 +184,139 @@
     <g transform="translate(85, 70)">
       <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
       <text class="date-text" x="16" y="10" font-size="9">
-        Aug 14, 2025
+        Dec 3, 2025
+      </text>
+    </g>
+  </g>
+  <g transform="translate(246, 183)" class="card card-3">
+    <rect class="card-bg" width="216" height="95" rx="12"/>
+    <rect class="card-border" width="216" height="95" rx="12" fill="none" stroke-width="1"/>
+
+    <!-- Repo Icon -->
+    <g transform="translate(14, 14)">
+      <defs>
+        <clipPath id="circleView-cw05cjlg8-3">
+          <circle cx="14" cy="14" r="14"/>
+        </clipPath>
+      </defs>
+      <circle class="icon-bg" cx="14" cy="14" r="14"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAAFSklEQVR4nOSXW2wTxxrHZ9Z7GTskISfHNgm2k4NPTHIOkJQgcFtKi9RSqRUCVX3goRJIPFBVPPDWpz71lT4UCYm2oupDW1SphVJacWu5FZISSIBAnGBCIA52Yid2HBJ7vbuzO9XumM2mENsp4SL1n9Vcdr+dX77ZmW8+s7FYDDwLMc+ECgBg5/pCJpvVVI22IdQL2kAI2Wy2JwUeiiY+/Gj3oirCMAzHcSzLmX/BNavXvbK29KHmMNWEkD2fHxpKyCrh7HY70i9EG3a7vbcvnE6nnwi4raOn/XIvIWAwrkwDjRIhO8/zl7uuEkLmGSzLyp4vDtH2WFpJTxHK1v3WJSAkpFLjw8Mj8ww+cPB0dDhpdq+Hkzwv6LS8kN5Bws1b/aqqzhcYAgCjI0nrrams0h9Jo7wEegkC0jQydC86L2Co7xUId2zd6HAg64MrPTECbZRnXHl8YnRMkqTHBEO6VQkhVQsXbNuywfrMX1/7UnCVyUP5aec5jhuJJx4LTAykpmmqoc1vvezzuMynH2zfVO/zVldX04/M69/cKAQ+J0nZrPg3wYQAisQY05IQbcfWt+nT9WubW5b5IYSB//op16TS6v7kZOGtVQCcd1RVVQVjRVFkRVnWVBdc1YgEbuf2zdSsoqLc7XIarAduGxWEUMzlCoALhEyIMdadpo5rGq3fe3d9a3PA7aoy7WoWuXE0BiFkWdbGMIzNEMMoWH+JYR7t26weMwyEEMi6p7JeGrUsyxXlaMNrL1gtk+OTR45fEnh9WXE8rQyxrKpps45fYDYEnlcxNqmSRC8pHk9Ikmya7d1/+OAvbYnkfZPI57ksNDbFnMEMw9jtyEDqMmsxl4sMDdG1c/lq+PT5a6qqffnNCX7aVfbBfM96UBYJIGUOBwRAekjDI4l0egJj9dPPDlLLru7+S1fCbJ7H0JKZ3eMi5zGE0Pnv6tStNN1UVFiX2hPqiybEO5HpU2Hv/p9WtzY57Bw0pAeC2XdU8VjtcDgqysupozmLRsdG2y5esVrGR8cP/HCKocuSFKKWejr5vItVVaU8UcyZjeVLXQI/Y86+/f63eCJlIIsczCWBOY6r83kNnGSWkpQjGm5pclktPbXO6qryotQ5nMc+rwchZJ1qUcyJoljrRJULONNs1/vvsGxJKV+pYIZhWlYsp19ZnFY2J4qBujJqs35tS2tzoNQBS7QDALjdLq/Hk/fUoNJKsCnOSgYJ/M7tm0ofbW4JfTC4WtO0nLHAaSHLEsbY62a3bXnDGsCLCv7jfsI8H+D0xOThoxduDeTTxN7wYHdo4Fz7ddoNhQePHGsfiiZomn3ybOeRY+3xxDgAAKvqhY4bJ8500pMDY/X8xRsnH3QzWfHXs11/Ac+IO4ePXjh+uqtiwaV9n+wCAJxr7w6FI5lMbt2LywEAZ9uuhfoiSxu8AOhZUUdXX+hmpHmZHwCQGp/4ePfXZQ7kr6vx/6c2lc53G5YsrvctSk9M7fvq59dfXTmrx7KC631uBWPzTrj/ntXgf0t9Ab8HAICQsGZl45K6Gpr+aYRwHOt2VckKNv4twvOs27lQUXBJU/2wJqdmJIunfr9a2L50FQFXljus3Y1vBp8IGAn87TsxgZ+OvYEGj9WgraMndHPwEaNAPbWLjSSRwNP4Kit4OJ4SjC4A4P5k5rsfz1hfmRFApjLixc6+gN/jXewEAAzcjSlYzWRzK1c0AABu341F7iUaG3w17n/R03csOfH/xnoAgKpq13sHRFEOrmqCEKqq1h0akCR5TaveFUXpj87eyooyOs4jwE9Tz0cAeZr6MwAA//8VwwKfcl+z2gAAAABJRU5ErkJggg==" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cw05cjlg8-3)"/>
+    </g>
+
+    <!-- Repo Name & PR Number -->
+    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
+      likelion-onetool/ba...
+    </text>
+    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
+      #241
+    </text>
+
+    <!-- PR Title -->
+    <text class="card-text" x="50" y="52" font-size="10">
+      Scale Out을 위한 Redis Pub/Sub ...
+    </text>
+
+    <!-- Contribution Type Badge -->
+    <g transform="translate(14, 70)">
+      <rect class="badge-bg" width="65" height="18" rx="4"/>
+      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
+        Merged
+      </text>
+    </g>
+
+    <!-- Date -->
+    <g transform="translate(85, 70)">
+      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
+      <text class="date-text" x="16" y="10" font-size="9">
+        Dec 3, 2025
+      </text>
+    </g>
+  </g>
+  <g transform="translate(18, 290)" class="card card-4">
+    <rect class="card-bg" width="216" height="95" rx="12"/>
+    <rect class="card-border" width="216" height="95" rx="12" fill="none" stroke-width="1"/>
+
+    <!-- Repo Icon -->
+    <g transform="translate(14, 14)">
+      <defs>
+        <clipPath id="circleView-cw05cjlg8-4">
+          <circle cx="14" cy="14" r="14"/>
+        </clipPath>
+      </defs>
+      <circle class="icon-bg" cx="14" cy="14" r="14"/>
+      <text x="14" y="19" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">A</text>
+    </g>
+
+    <!-- Repo Name & PR Number -->
+    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
+      all4land-team-assis...
+    </text>
+    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
+      #7
+    </text>
+
+    <!-- PR Title -->
+    <text class="card-text" x="50" y="52" font-size="10">
+      chore: node_modules 삭제
+    </text>
+
+    <!-- Contribution Type Badge -->
+    <g transform="translate(14, 70)">
+      <rect class="badge-bg" width="65" height="18" rx="4"/>
+      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
+        Merged
+      </text>
+    </g>
+
+    <!-- Date -->
+    <g transform="translate(85, 70)">
+      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
+      <text class="date-text" x="16" y="10" font-size="9">
+        Nov 17, 2025
+      </text>
+    </g>
+  </g>
+  <g transform="translate(246, 290)" class="card card-5">
+    <rect class="card-bg" width="216" height="95" rx="12"/>
+    <rect class="card-border" width="216" height="95" rx="12" fill="none" stroke-width="1"/>
+
+    <!-- Repo Icon -->
+    <g transform="translate(14, 14)">
+      <defs>
+        <clipPath id="circleView-cw05cjlg8-5">
+          <circle cx="14" cy="14" r="14"/>
+        </clipPath>
+      </defs>
+      <circle class="icon-bg" cx="14" cy="14" r="14"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAAFSklEQVR4nOSXW2wTxxrHZ9Z7GTskISfHNgm2k4NPTHIOkJQgcFtKi9RSqRUCVX3goRJIPFBVPPDWpz71lT4UCYm2oupDW1SphVJacWu5FZISSIBAnGBCIA52Yid2HBJ7vbuzO9XumM2mENsp4SL1n9Vcdr+dX77ZmW8+s7FYDDwLMc+ECgBg5/pCJpvVVI22IdQL2kAI2Wy2JwUeiiY+/Gj3oirCMAzHcSzLmX/BNavXvbK29KHmMNWEkD2fHxpKyCrh7HY70i9EG3a7vbcvnE6nnwi4raOn/XIvIWAwrkwDjRIhO8/zl7uuEkLmGSzLyp4vDtH2WFpJTxHK1v3WJSAkpFLjw8Mj8ww+cPB0dDhpdq+Hkzwv6LS8kN5Bws1b/aqqzhcYAgCjI0nrrams0h9Jo7wEegkC0jQydC86L2Co7xUId2zd6HAg64MrPTECbZRnXHl8YnRMkqTHBEO6VQkhVQsXbNuywfrMX1/7UnCVyUP5aec5jhuJJx4LTAykpmmqoc1vvezzuMynH2zfVO/zVldX04/M69/cKAQ+J0nZrPg3wYQAisQY05IQbcfWt+nT9WubW5b5IYSB//op16TS6v7kZOGtVQCcd1RVVQVjRVFkRVnWVBdc1YgEbuf2zdSsoqLc7XIarAduGxWEUMzlCoALhEyIMdadpo5rGq3fe3d9a3PA7aoy7WoWuXE0BiFkWdbGMIzNEMMoWH+JYR7t26weMwyEEMi6p7JeGrUsyxXlaMNrL1gtk+OTR45fEnh9WXE8rQyxrKpps45fYDYEnlcxNqmSRC8pHk9Ikmya7d1/+OAvbYnkfZPI57ksNDbFnMEMw9jtyEDqMmsxl4sMDdG1c/lq+PT5a6qqffnNCX7aVfbBfM96UBYJIGUOBwRAekjDI4l0egJj9dPPDlLLru7+S1fCbJ7H0JKZ3eMi5zGE0Pnv6tStNN1UVFiX2hPqiybEO5HpU2Hv/p9WtzY57Bw0pAeC2XdU8VjtcDgqysupozmLRsdG2y5esVrGR8cP/HCKocuSFKKWejr5vItVVaU8UcyZjeVLXQI/Y86+/f63eCJlIIsczCWBOY6r83kNnGSWkpQjGm5pclktPbXO6qryotQ5nMc+rwchZJ1qUcyJoljrRJULONNs1/vvsGxJKV+pYIZhWlYsp19ZnFY2J4qBujJqs35tS2tzoNQBS7QDALjdLq/Hk/fUoNJKsCnOSgYJ/M7tm0ofbW4JfTC4WtO0nLHAaSHLEsbY62a3bXnDGsCLCv7jfsI8H+D0xOThoxduDeTTxN7wYHdo4Fz7ddoNhQePHGsfiiZomn3ybOeRY+3xxDgAAKvqhY4bJ8500pMDY/X8xRsnH3QzWfHXs11/Ac+IO4ePXjh+uqtiwaV9n+wCAJxr7w6FI5lMbt2LywEAZ9uuhfoiSxu8AOhZUUdXX+hmpHmZHwCQGp/4ePfXZQ7kr6vx/6c2lc53G5YsrvctSk9M7fvq59dfXTmrx7KC631uBWPzTrj/ntXgf0t9Ab8HAICQsGZl45K6Gpr+aYRwHOt2VckKNv4twvOs27lQUXBJU/2wJqdmJIunfr9a2L50FQFXljus3Y1vBp8IGAn87TsxgZ+OvYEGj9WgraMndHPwEaNAPbWLjSSRwNP4Kit4OJ4SjC4A4P5k5rsfz1hfmRFApjLixc6+gN/jXewEAAzcjSlYzWRzK1c0AABu341F7iUaG3w17n/R03csOfH/xnoAgKpq13sHRFEOrmqCEKqq1h0akCR5TaveFUXpj87eyooyOs4jwE9Tz0cAeZr6MwAA//8VwwKfcl+z2gAAAABJRU5ErkJggg==" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cw05cjlg8-5)"/>
+    </g>
+
+    <!-- Repo Name & PR Number -->
+    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
+      likelion-onetool/ba...
+    </text>
+    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
+      #239
+    </text>
+
+    <!-- PR Title -->
+    <text class="card-text" x="50" y="52" font-size="10">
+      hotfix: 운영 DB 서버의 커넥션 누수 문제 ...
+    </text>
+
+    <!-- Contribution Type Badge -->
+    <g transform="translate(14, 70)">
+      <rect class="badge-bg" width="65" height="18" rx="4"/>
+      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
+        Bug Fix
+      </text>
+    </g>
+
+    <!-- Date -->
+    <g transform="translate(85, 70)">
+      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
+      <text class="date-text" x="16" y="10" font-size="9">
+        Oct 24, 2025
       </text>
     </g>
   </g>
